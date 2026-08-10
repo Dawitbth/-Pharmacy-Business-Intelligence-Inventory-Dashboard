@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
-![](pharmacy.PNG)
+![](pharmacy)
 ## 📌 Overview
 
 The **Pharmacy Business Intelligence & Intelligent Inventory Dashboard** is a data-driven application designed to help pharmacies monitor business performance, record sales, analyze profitability, manage drug inventory, and identify products approaching or exceeding their expiration dates.
@@ -148,7 +148,11 @@ The project demonstrates skills in:
 - Dashboard Development
 - Streamlit
 - Data-Driven Decision Making
-  
+
+
+![Dashboard Demo Video](pharma.webm)
+
+
 The overall development approach focuses on solving real-world business problems with data and technology.
 
 ### Data Flow
